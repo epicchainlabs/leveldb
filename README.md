@@ -4,7 +4,7 @@
 
 **Note:** This repository is currently receiving very limited maintenance. We will only review changes that address critical bugs, such as data loss or memory corruption, or necessary updates for internally supported clients.
 
-![CI Badge](https://github.com/google/leveldb/actions/workflows/build.yml/badge.svg)
+![CI Badge](https://github.com/xmoohad/leveldb/actions/workflows/build.yml/badge.svg)
 
 
 ## Overview
